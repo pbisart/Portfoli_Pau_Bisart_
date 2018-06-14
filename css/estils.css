@@ -1,0 +1,548 @@
+body {
+    margin: inherit;
+    background-image: url(/images/fons.jpg)
+}
+
+.fons_pantalla {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    width: 1570px;
+    height: 1820px;
+}
+
+#background_image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.home-1 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    left: 890px;
+    top: -120px;
+
+}
+
+.work-1 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    left: 880px;
+    top: -120px;
+    transition: all 0.5s;
+}
+
+.about-1 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    left: 870px;
+    top: -120px;
+    transition: all 0.5s;
+}
+
+.contact-1 {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    left: 880px;
+    top: -120px;
+    transition: all 0.5s;
+}
+
+.portfolio {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    left: -570px;
+    top: -120px;
+    transition: all 0.5s;
+}
+
+.quadrat {
+    width: 1569px;
+    height: 100px;
+    background: #151515;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.modeling {
+    position: relative;
+    height: 100px;
+    width: 500px;
+    left: -775px;
+    top: 300px;
+
+}
+
+.inicio {
+    position: relative;
+    height: 50px;
+    width: 110px;
+    left: 160px;
+    top: -175px;
+
+}
+
+.da {
+    position: relative;
+    height: 90px;
+    width: 600px;
+    left: 110px;
+    top: 300px;
+}
+
+.fons_pantalla2 {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    width: 1570px;
+    height: 1820px;
+}
+
+#background_image2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.home2 {
+    position: relative;
+    height: 70px;
+    width: 200px;
+    left: -180px;
+    top: 0px;
+
+}
+
+.fons_pantalla_contact {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    width: 1570px;
+    height: 700px;
+}
+
+#background_image_contact {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.correu {
+    position: relative;
+    height: 50px;
+    width: 360px;
+    left: -990px;
+    top: 120px;
+
+}
+
+.descripcio {
+    position: relative;
+    height: 100px;
+    width: 800px;
+    left: 100px;
+    top: 150px;
+
+}
+
+.ilumination {
+    position: absolute;
+    height: 90px;
+    width: 480px;
+    left: 220px;
+    top: 300px;
+
+}
+
+.flecha1 {
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    left: 100px;
+    top: 280px;
+
+}
+
+.design_and_drawing {
+    position: absolute;
+    height: 90px;
+    width: 700px;
+    left: 220px;
+    top: 420px;
+}
+
+.flecha2 {
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    left: 100px;
+    top: 410px;
+
+}
+
+.color_and_texture {
+    position: absolute;
+    height: 90px;
+    width: 600px;
+    left: 220px;
+    top: 540px;
+}
+
+.flecha3 {
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    left: 100px;
+    top: 535px;
+
+}
+
+.modeling_t {
+    position: absolute;
+    height: 90px;
+    width: 400px;
+    left: 220px;
+    top: 670px;
+}
+
+.flecha4 {
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    left: 100px;
+    top: 660px;
+
+}
+
+.d_animation {
+    position: absolute;
+    height: 90px;
+    width: 400px;
+    left: 220px;
+    top: 800px;
+}
+
+.flecha5 {
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    left: 100px;
+    top: 790px;
+
+}
+
+.d2_animation {
+    position: absolute;
+    height: 90px;
+    width: 400px;
+    left: 220px;
+    top: 940px;
+}
+
+.flecha6 {
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    left: 100px;
+    top: 925px;
+
+}
+
+.pbb {
+    position: relative;
+    height: 90px;
+    width: 650px;
+    left: -120px;
+    top: 00px;
+    transition: all 0.5s;
+}
+
+#model {
+    position: relative;
+    height: 500px;
+    width: 800px;
+    left: 400px;
+    top: 300px;
+}
+
+.ilu {
+    transition: transform 1s;
+
+}
+
+.ilu:hover {
+    transform: scale(1.25);
+}
+
+#model2 {
+    position: relative;
+    height: 500px;
+    width: 800px;
+    left: 400px;
+    top: 500px;
+}
+
+#model3 {
+    position: relative;
+    height: 500px;
+    width: 800px;
+    left: 400px;
+    top: 700px;
+}
+
+#model4 {
+    position: relative;
+    height: 500px;
+    width: 800px;
+    left: 400px;
+    top: 900px;
+}
+
+#model5 {
+    position: relative;
+    height: 500px;
+    width: 800px;
+    left: 400px;
+    top: 1100px;
+}
+
+#model6 {
+    position: relative;
+    height: 500px;
+    width: 800px;
+    left: 400px;
+    top: 1300px;
+}
+
+#disseny {
+    position: relative;
+    height: 500px;
+    width: 800px;
+    left: 400px;
+    top: 200px;
+}
+
+#disseny1 {
+    position: relative;
+    height: 500px;
+    width: 800px;
+    left: 400px;
+    top: 400px;
+}
+
+#ilustracio {
+    position: relative;
+    height: 800px;
+    width: 800px;
+    left: 400px;
+    top: 200px;
+}
+
+#ilustracio1 {
+    position: relative;
+    height: 800px;
+    width: 800px;
+    left: 400px;
+    top: 500px;
+}
+
+#ilustracio2 {
+    position: relative;
+    height: 800px;
+    width: 800px;
+    left: 400px;
+    top: 800px;
+}
+
+.text1 {
+    position: relative;
+    top: 150px;
+    left: 620px;
+    color: white;
+    width: 2000px;
+    font-size: 30px;
+}
+
+#wacky {
+    position: relative;
+    height: 500px;
+    width: 700px;
+    left: 460px;
+    top: 200px;
+}
+
+.text2 {
+    position: relative;
+    top: 150px;
+    left: 710px;
+    color: white;
+    width: 2000px;
+    font-size: 30px;
+}
+
+video {
+    left: 130px;
+    position: absolute;
+    width: 1270px;
+    height: 720px;
+    top: 120px;
+}
+
+.il1 {
+    position: relative;
+    top: -2200px;
+    left: 610px;
+    color: white;
+    width: 2000px;
+    font-size: 40px;
+}
+
+.il2 {
+    position: relative;
+    top: -1550px;
+    left: 610px;
+    color: white;
+    width: 2000px;
+    font-size: 40px;
+}
+
+.il3 {
+    position: relative;
+    top: -960px;
+    left: 610px;
+    color: white;
+    width: 2000px;
+    font-size: 40px;
+}
+
+.il4 {
+    position: relative;
+    top: 370px;
+    left: 690px;
+    color: white;
+    width: 2000px;
+    font-size: 40px;
+}
+
+.il5 {
+    position: relative;
+    top: -410px;
+    left: 650px;
+    color: white;
+    width: 2000px;
+    font-size: 40px;
+}
+
+.il6 {
+    position: relative;
+    top: 910px;
+    left: 700px;
+    color: white;
+    width: 2000px;
+    font-size: 40px;
+}
+
+.da1 {
+    position: relative;
+    top: -260px;
+    left: 720px;
+    color: white;
+    width: 2000px;
+    font-size: 40px;
+}
+
+.da3 {
+    position: relative;
+    top: 290px;
+    left: 720px;
+    color: white;
+    width: 2000px;
+    font-size: 40px;
+}
+
+.ct1 {
+    position: relative;
+    top: -1340px;
+    left: 720px;
+    color: white;
+    width: 2000px;
+    font-size: 40px;
+}
+
+.ct2 {
+    position: relative;
+    top: -300px;
+    left: 670px;
+    color: white;
+    width: 2000px;
+    font-size: 40px;
+}
+
+.ct3 {
+    position: relative;
+    top: 700px;
+    left: 670px;
+    color: white;
+    width: 2000px;
+    font-size: 40px;
+}
+
+.pose {
+    position: relative;
+    height: 1700px;
+    width: 3000px;
+    left: -200px;
+    top: -360px;
+}
+
+.pose1 {
+    position: relative;
+    height: 700px;
+    width: 1000px;
+    left: 600px;
+    top: 360px;
+}
+
+.home_text {
+    position: relative;
+    top: 300px;
+    left: 290px;
+    color: white;
+    width: 1000px;
+    font-size: 40px;
+}
+.pau_bisart_t{
+    position: relative;
+    top: 300px;
+    left: 120px;
+    color: white;
+    width: 1000px;
+    font-size: 160px;
+}
+.lloc{
+    position: relative;
+    top: 170px;
+    left: 150px;
+    color: white;
+    width: 1000px;
+    font-size: 30px;
+}
+.explicacio_about{
+    position: relative;
+    top: 170px;
+    left: 150px;
+    color: white;
+    width: 1000px;
+    font-size: 50px;
+}
+
